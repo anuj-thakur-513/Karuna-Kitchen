@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Karuna Kitchen</string>
+    <string name="overview">In a world where big chains of restaurants dominate our eating habits, we are a small and humble restaurant which are trying their best to change this scenario.
+
+We serve our food without Onion &amp; Garlic but believe me after you have tried our food you won’t be missing them. As we all are familiar with the fact that Onion and Garlic are considered to be Tamasic food. Our main focus is to serve Satvik food, or we can say healthy food.
+
+Us not putting Onion and Garlic doesn’t restrict our menu at all as we try and experiment with out food and try to come up with dishes that are exquisite. We serve from Mexican food to Chinese to North Indian. We are just a small player in a big market but are trying to do something unique.
+
+The food that we serve will be fresh and you won’t be able to find this anywhere but here. We are not going for a generic thing we are here to stand out and serve healthy and mouth watering dishes.</string>
+    <string name="story">Our journey is not that exquisite or oscar worthy, anyway we started as a rookie then gradually we made some progress (that’s when we learnt how to boil stuff), learnt some dishes along the way, washed some dishes as well and burned some as well, we are still learning as we go. The hardest thing that we still haven’t learned is that was/is to not eat all the food ourselves, it is very hard not to be tempted as being foody ourselves. It is safe to say that our story is also similar to Kuch Kuch Hota Hai if both the actresses were replaced by a stove and a bread. Kuch Kuch hota hai ‘lettuce’, tum nai samjhoge!!!</string>
+    <string name="mayapur"><b>MAYAPUR ISKCON -</b> Nabadwip, Nadia (In front of Prabhupada Samadhi)</string>
+    <string name="vrindavan"><b>VRINDAVAN -</b> Near Radhe Shyam Ashram, Parikrama Marg, (Nandu\'s Place)</string>
+    <string name="dharamshala"><b>DHARAMSHALA -</b> Karuna Mansion, Bhagsunag Rd, Bhagsu Nag, Dharamshala</string>
+    <string name="chd"><b>CHANDIGARH -</b> #66, Shiv Enclave, Raipur , Sector-122 Mohali</string>
+    <string name="website">
+        "<b>Our Website - </b>"<a href="https://www.karunakitchen.in/">"https://www.karunakitchen.in/"</a>
+    </string>
+</resources>
